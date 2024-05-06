@@ -4,4 +4,4 @@ const person = {
     city: "Porto Velho"
 };
 const keys = Object.keys(person);
-console.log(keys) // [ 'name', 'age', 'city' ]
+console.log(keys) // retorna as propriedades do objeto [ 'name', 'age', 'city' ]
