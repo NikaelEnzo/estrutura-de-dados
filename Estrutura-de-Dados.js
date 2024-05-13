@@ -11,10 +11,10 @@ Objetos (Object)
 listas ligadas
 pilhas (stacks)
 filas (Queue)
-Arvores
-Grafos (Graphs)
+Arvores (trees)                         (sempre aciclica | muita coisa, pesquisar para mais)
+Grafos (Graphs)                         (pode ser ciclica)
 Tabelas de Hash (Hash Tables)
-Conjuntos (sets)
+Conjuntos (sets)                        (conjuntos unicos e não ordenado)
 Mapas (maps)
 Fila de prioridade (priority Queue)
 
